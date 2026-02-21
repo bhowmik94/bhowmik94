@@ -1,8 +1,8 @@
 # Hi, I'm Sourav 👋
 
-Frontend Developer with full-stack experience. I also love to explore machine learning algorithms with real-world impacts.
+Frontend Developer with full-stack experience.
 
-I build scalable web applications and explore ML solutions for energy forecasting, sustainability and anomaly detection.
+I build scalable web applications and explore ML solutions for energy forecasting, sustainability and anomaly detection. I also love to explore machine learning algorithms with real-world impacts.
 
 ---
 
