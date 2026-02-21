@@ -14,11 +14,6 @@ Highly streamlined web interface for smooth legal workflows and license manageme
 - React + Go full-stack system
 - Role-based user tracking
 - React-based dynamic log loading
-  
-### 🔹 Smart Energy Forecasting (Master's Thesis)
-- ML models (ARIMA, SARIMA, LSTM) for load prediction
-- Dataset: Smart meter data (450 households, 2019–2023)
-- Tech: Python, Pandas, Scikit-learn, TensorFlow
 
 ### 🔹 Data Explorer
 A React-based web application for uploading and visualizing structured datasets.
@@ -45,11 +40,15 @@ A full-stack note management system with authentication.
 ### 🔹 Beverage Management System
 A structured CRUD-based management system.
 
-**Highlights:**
 - Inventory handling
 - Role-based functionality
 - Practical database modeling
 - Clean separation of concerns
+
+### 🔹 Smart Energy Forecasting (Master's Thesis)
+- ML models (ARIMA, SARIMA, LSTM) for load prediction
+- Dataset: Smart meter data (450 households, 2019–2023)
+- Tech: Python, Pandas, Scikit-learn, TensorFlow
 
 ## 💻 Tech Stack
 
