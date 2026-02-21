@@ -1,8 +1,8 @@
 # Hi, I'm Sourav 👋
 
-Frontend Developer with full-stack experience.
+Frontend Developer with full-stack experience. I also love to explore machine learning algorithms with real-world impacts.
 
-I build scalable web applications and explore ML solutions for energy forecasting, sustainability and anomaly detection. I also love to explore machine learning algorithms with real-world impacts.
+I build scalable web applications and explore ML solutions for energy forecasting, sustainability and anomaly detection.
 
 ---
 
@@ -28,10 +28,6 @@ A React-based web application for uploading and visualizing structured datasets.
 - Clean component architecture
 - Focus on UX and performance
 
-🔗 Repo: https://github.com/bhowmik94/data-explorer
-
----
-
 ### 🔹 NotePilot (Fullstack)
 A full-stack note management system with authentication.
 
@@ -45,12 +41,7 @@ A full-stack note management system with authentication.
 - REST API
 - CRUD operations
 - Secure auth handling
-
-🔗 UI: https://github.com/bhowmik94/NotePilot-UI  
-🔗 Backend: https://github.com/bhowmik94/NotePilot-Backend  
-
----
-
+  
 ### 🔹 Beverage Management System
 A structured CRUD-based management system.
 
@@ -59,10 +50,6 @@ A structured CRUD-based management system.
 - Role-based functionality
 - Practical database modeling
 - Clean separation of concerns
-
-🔗 Repo: https://github.com/bhowmik94/Beverage-Management-System
-
----
 
 ## 💻 Tech Stack
 
@@ -87,15 +74,11 @@ A structured CRUD-based management system.
 - Time-series Forecasting
 - Anomaly Detection
 
----
-
 ## 🧠 Machine Learning Interests
 - Load Forecasting
 - PV Production Prediction
 - Prosumers-based energy modeling
 - Time Series Analysis
-
----
 
 ## 💡 What I Focus On
 
@@ -103,8 +86,6 @@ A structured CRUD-based management system.
 - Writing clean and maintainable React code
 - Structuring scalable frontend architecture
 - Connecting frontend with robust backend systems
-
----
 
 ## 📫 Connect With Me
 
