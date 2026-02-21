@@ -53,26 +53,11 @@ A structured CRUD-based management system.
 
 ## 💻 Tech Stack
 
-**Frontend**
-- JavaScript / TypeScript
-- React
-- Angular
-- HTML5
-- CSS3
-
-**Backend**
-- Node.js (Express)
-- Spring Boot
-- PostgreSQL
-- MongoDB
-
-**ML / Data**
-- Python
-- Pandas
-- Scikit-learn
-- TensorFlow
-- Time-series Forecasting
-- Anomaly Detection
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | JavaScript / TypeScript, React, Angular, HTML5, CSS3, NPM, Webpack |
+| **Backend** | Node.js (Express), Spring Boot, PostgreSQL, MongoDB |
+| **ML / Data** | Python, Pandas, Scikit-learn, TensorFlow
 
 ## 🧠 Machine Learning Interests
 - Load Forecasting
